@@ -109,3 +109,7 @@ Apply for Internships
 - https://www.howtographql.com/
 - https://howhttps.works/
 - https://howdns.works/
+- https://www.geeksforgeeks.org/last-minute-notes-compiler-design-gq/
+- https://www.geeksforgeeks.org/operating-systems-set-1/?ref=lbp
+- https://www.geeksforgeeks.org/database-management-system-set-1/?ref=lbp
+- https://www.geeksforgeeks.org/computer-networks-set-1/
