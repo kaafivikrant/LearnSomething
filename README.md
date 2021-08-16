@@ -81,6 +81,8 @@ https://kaafivikrant.github.io/LearnSomething/
 # Data Structures and Algorithms - 3 Months and Keep in Touch
 
 - [Apna College -Learn](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+- [Striver-Graphs](https://www.youtube.com/watch?v=YTtpfjGlH2M&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
+- [Kenny Leetcode Problems](https://www.youtube.com/playlist?list=PLujIAthk_iiO7r03Rl4pUnjFpdHjdjDwy)
 - [Misc -Learn](https://mega.nz/folder/J25S2aiI#fBwHXCl7fgxKS-QQ8jZeMw)
 - [Leetcode -Learn](https://leetcode.com/list/54svl78v)
 - [Leetcode -Learn](https://www.youtube.com/playlist?list=PLujIAthk_iiO7r03Rl4pUnjFpdHjdjDwy)
