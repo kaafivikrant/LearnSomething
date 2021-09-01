@@ -31,6 +31,7 @@ https://kaafivikrant.github.io/LearnSomething/
 - [Code With Harry -Learn](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL)
 - [Namaste JavaScript -Learn](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - [FreeCodeCamp -Project](https://www.youtube.com/watch?v=3PHXvlpOkf4)
+- [Projects](https://www.youtube.com/playlist?list=PLtMugc7g4GaqAVDZwQ_t1H6500ZGJzOgW)
 - [Florin pop -Project](https://www.youtube.com/watch?v=dtKciwk_si4)
 
 # Create or Copy (Your Choice)
