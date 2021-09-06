@@ -56,7 +56,7 @@ https://kaafivikrant.github.io/LearnSomething/
 - [Nsquared Coding -Learn](https://www.youtube.com/watch?v=vrj9AohVhPA)
 - [Geeky Shows -Learn](https://www.youtube.com/watch?v=AriyBKPIHkk)
 - [CodeWithHarry -Learn](https://www.youtube.com/watch?v=oSIv-E60NiU)
-- [Coders Gyan](https://www.youtube.com/watch?v=22oqSaTsn08&t=6785s)
+- [Coders Gyan -Learn](https://www.youtube.com/watch?v=22oqSaTsn08&t=6785s)
 - [Sql Bolt Video -Learn](https://www.youtube.com/watch?v=uPrC2IpUXWs)
 - [Sql Bolt -Practice](https://sqlbolt.com/)
 - [Dev Ed -Project](https://www.youtube.com/watch?v=vjf774RKrLc)
