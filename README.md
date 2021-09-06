@@ -118,12 +118,12 @@ https://kaafivikrant.github.io/LearnSomething/
 `Karte jao, Karte jao `
 
 
-# Interview Experiences
+<!-- # Interview Experiences
 - Vikrant Sharma
 - Sourav Agarwal
 - Sanya Kumari
 - Suraj
-- Vikash Singh Tomar
+- Vikash Singh Tomar -->
 
 # Useful links
 - [How to graphql](https://www.howtographql.com/)
